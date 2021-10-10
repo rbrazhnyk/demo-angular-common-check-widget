@@ -1,6 +1,7 @@
 {
   "name": "demo-angular-common-check-widget",
-  "version": "0.0.0",
+  "description": "Sample of integration angular app with CommonCheck widget",
+  "version": "0.1.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -8,6 +9,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
+  "author": "Roman Brazhnyk <rbrazhnyk@gmail.com>",
   "private": true,
   "dependencies": {
     "@angular/animations": "~12.2.0",
